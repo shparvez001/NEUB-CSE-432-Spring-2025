@@ -12,7 +12,14 @@ CSE 432 Spring 2025 class notebook
     2. Generating Unit Step Signal
     3. Generating Unit Ramp Signal
     4. Generating Exponential Signal
-
+3. [Lab 3](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-03.ipynb).
+	1. Generating Sinusoidal signal
+    2. Observing the effect of sampling
+    3. Signal time shifting
+    4. Folding Operation on DT signal
+    5. Convolution
+        1. Using built-in numpy function
+        2. Manually coding
 
 
 ## List of Tasks to be done by Students
