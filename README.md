@@ -28,6 +28,11 @@ CSE 432 Spring 2025 class notebook
     5. Computing integration using sympy
     6. Solving simultaneous equation using sympy
     7. Finding factors and solving polynomial using sympy   
+5.  [Lab 5](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-05.ipynb).   
+    1. Frequency analysis of Discrete-Time Periodic Signals (Fourier Series)
+    2. Implementing Zero Order Hold DAC
+    3. Cross Correlation of two signals x = [1, 2, 3, 4] & y = [5, 6, 7, 8]
+    4. Autocorretaion of signal x = [1, 2, 3, 4]
 
 
 ## List of Tasks to be done by Students
@@ -41,3 +46,7 @@ CSE 432 Spring 2025 class notebook
     3. Create a python code with functions defined to create unit Impulse, Step, and Ramp signal.
 2. [Lab 4](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-04.ipynb).
     1. Solve differential equation using sympy
+3. [Lab 5](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-05.ipynb).
+    1. Implementing Zero Order Hold DAC
+    2. Cross Correlation of two signals x = [1, 2, 3, 4] & y = [5, 6, 7, 8]
+    3. Autocorretaion of signal x = [1, 2, 3, 4]    
