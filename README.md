@@ -33,6 +33,11 @@ CSE 432 Spring 2025 class notebook
     2. Implementing Zero Order Hold DAC
     3. Cross Correlation of two signals x = [1, 2, 3, 4] & y = [5, 6, 7, 8]
     4. Autocorretaion of signal x = [1, 2, 3, 4]
+6.  [Lab 6](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-06.ipynb).   
+    1. Downsampling 
+    2. Downsampling by dividing signal into blocks and using average values.
+    3. Upsampling by inserting zeros
+    4. Upsampling by inserting average value
 
 
 ## List of Tasks to be done by Students
