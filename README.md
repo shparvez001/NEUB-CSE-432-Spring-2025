@@ -38,6 +38,11 @@ CSE 432 Spring 2025 class notebook
     2. Downsampling by dividing signal into blocks and using average values.
     3. Upsampling by inserting zeros
     4. Upsampling by inserting average value
+7.  [Lab 7](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-07.ipynb).   
+    1. Loading and showig image
+    2. Downsampling and Upsampling image
+    3. Downsampling sound files
+    4. Reversing audio
 
 
 ## List of Tasks to be done by Students
