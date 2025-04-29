@@ -43,6 +43,10 @@ CSE 432 Spring 2025 class notebook
     2. Downsampling and Upsampling image
     3. Downsampling sound files
     4. Reversing audio
+8.  [Lab 8](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-08.ipynb).   
+    1. Manually calculating DFT of a discrete time sequence
+    2. Calculating DFT of a sinusoid using FFT function of numpy
+    3. Manually calculating DFT of a sinusoid
 
 
 ## List of Tasks to be done by Students
