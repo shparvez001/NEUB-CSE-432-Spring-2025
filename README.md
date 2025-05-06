@@ -47,6 +47,9 @@ CSE 432 Spring 2025 class notebook
     1. Manually calculating DFT of a discrete time sequence
     2. Calculating DFT of a sinusoid using FFT function of numpy
     3. Manually calculating DFT of a sinusoid
+9.  [Lab 9](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-09.ipynb).   
+    1. Convolution By DFT and IDFT (Example 7.3.1)
+    2. Effect of Zero Padding to improve spectral resolution of DFT
 
 
 ## List of Tasks to be done by Students
