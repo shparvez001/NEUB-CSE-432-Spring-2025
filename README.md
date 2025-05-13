@@ -50,7 +50,7 @@ CSE 432 Spring 2025 class notebook
 9.  [Lab 9](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-09.ipynb).   
     1. Convolution By DFT and IDFT (Example 7.3.1)
     2. Effect of Zero Padding to improve spectral resolution of DFT
-10.  [Lab 10](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-10.ipynb).   
+10. [Lab 10](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-10.ipynb).   
     1. DFT by Divide and Conquer Approach
     2. Moving Average Filter
     3. Implemenmting moving average filter on random data
@@ -74,13 +74,13 @@ CSE 432 Spring 2025 class notebook
 4. [Lab 10](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-10.ipynb).
     a. Implementing Radix-2 FFT algorithm
     b. Frequency analysis of a signal using different window filters
-        i. Hanning
-        ii. Hamming
+        1. Hanning
+        2. Hamming
 
 
 ## Lab Final Details
-Lab Exam Date: 27th May 2025, Tuesday, 8:30 AM
-Project Submission Date: 29th May 2025, Thursday, 10:00 AM
+* Lab Exam Date: 27th May 2025, Tuesday, 8:30 AM
+* Project Submission Date: 29th May 2025, Thursday, 10:00 AM
 
 ## Marks Distribution
 |Assessment|Mark|
