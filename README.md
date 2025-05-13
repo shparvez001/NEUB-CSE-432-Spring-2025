@@ -71,9 +71,9 @@ CSE 432 Spring 2025 class notebook
     1. Implementing Zero Order Hold DAC
     2. Cross Correlation of two signals x = [1, 2, 3, 4] & y = [5, 6, 7, 8]
     3. Autocorretaion of signal x = [1, 2, 3, 4]    
-4. [Lab 10](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-10.ipynb).
-    a. Implementing Radix-2 FFT algorithm
-    b. Frequency analysis of a signal using different window filters
+4. [Lab 10](https://github.com/shparvez001/NEUB-CSE-432-Spring-2025/tree/main/CSE-432-2501-Lab-10.ipynb). 
+    1. Implementing Radix-2 FFT algorithm
+    2. Frequency analysis of a signal using different window filters
         1. Hanning
         2. Hamming
 
